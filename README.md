@@ -4,9 +4,9 @@
 
 - 🔭 **I’m currently working on:** A self improvement website/
 - 🌱 **I’m currently learning:** Node and Express
-<!--- 🤔 **I’m looking for help with:** Your project here -->
 - 😄 **Pronouns:** Him
 - ⚡ **Fun fact:** I love music
+<!--- 🤔 **I’m looking for help with:** Your project here -->
 
 
 ## 🌐 Socials:
