@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Mitesh Rajpurohit
-**A passionate Frontend Developer|| Problem Solver || Aspiring SDE**
+**A passionate Data Analyst & AI/ML Developer || Problem Solver**
 
 
 - 🔭 **I’m currently working on:** A self improvement website/
-- 🌱 **I’m currently learning:** Node and Express
+- 🌱 **I’m currently learning:** ML Algorithms
 - 😄 **Pronouns:** Him
 - ⚡ **Fun fact:** I love music
 <!--- 🤔 **I’m looking for help with:** Your project here -->
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/miteshpurohit10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miteshpurohit10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miteshpurohit26@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miteshpurohit10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miteshpurohit26@gmail.com) 
 
 <!-- Snake Game Repo View 
 
